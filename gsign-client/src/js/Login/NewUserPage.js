@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default class LoginPage extends React.Component {
+export default class NewUserPage extends React.Component {
     constructor(props) {
         super(props)
 
@@ -9,11 +9,6 @@ export default class LoginPage extends React.Component {
         }
 
         this.handleSubmitEvent = this.handleSubmitEvent.bind(this)
-        this.addNewUserButtonWasClicked = this.addNewUserButtonWasClicked.bind(this)
-    }
-
-    addNewUserButtonWasClicked(event) {
-        this.props.history.push('/performs/' + this.state.code + '/new')
     }
 
     handleSubmitEvent(event) {
@@ -50,8 +45,8 @@ export default class LoginPage extends React.Component {
                         <input ref='passwordInput' type='password' id='password-input'/>
                     </label>
                 </div>
-                <button className='sign-in small' type='submit'>
-                    ログイン
+                <button className='create small' type='submit'>
+                    登録
                 </button>
             </form>
         )
