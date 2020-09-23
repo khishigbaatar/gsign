@@ -215,7 +215,7 @@
       <workItem from="1600311373561" duration="262000" />
       <workItem from="1600431902252" duration="2049000" />
       <workItem from="1600478276085" duration="15343000" />
-      <workItem from="1600762416930" duration="5812000" />
+      <workItem from="1600762416930" duration="6393000" />
     </task>
     <servers />
   </component>
@@ -240,70 +240,83 @@
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="468" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1440.797@0.23.1440.797" timestamp="1600485422760" />
-    <state x="458" y="175" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600483734583">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state x="458" y="175" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600852150475">
+      <screen x="0" y="23" width="1440" height="799" />
     </state>
     <state x="458" y="175" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.797@0.23.1440.797" timestamp="1600483734583" />
-    <state width="955" height="160" key="GridCell.Tab.0.bottom" timestamp="1600848642955">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state x="458" y="175" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.799@0.23.1440.799" timestamp="1600852150475" />
+    <state width="954" height="160" key="GridCell.Tab.0.bottom" timestamp="1600852201061">
+      <screen x="0" y="23" width="1440" height="799" />
     </state>
     <state width="955" height="160" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1600848642955" />
     <state width="699" height="253" key="GridCell.Tab.0.bottom/0.23.1440.798@0.23.1440.798" timestamp="1600478842004" />
-    <state width="955" height="160" key="GridCell.Tab.0.center" timestamp="1600848642954">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="954" height="160" key="GridCell.Tab.0.bottom/0.23.1440.799@0.23.1440.799" timestamp="1600852201061" />
+    <state width="954" height="160" key="GridCell.Tab.0.center" timestamp="1600852201060">
+      <screen x="0" y="23" width="1440" height="799" />
     </state>
     <state width="955" height="160" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1600848642954" />
     <state width="699" height="253" key="GridCell.Tab.0.center/0.23.1440.798@0.23.1440.798" timestamp="1600478842003" />
-    <state width="955" height="160" key="GridCell.Tab.0.left" timestamp="1600848642953">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="954" height="160" key="GridCell.Tab.0.center/0.23.1440.799@0.23.1440.799" timestamp="1600852201060" />
+    <state width="954" height="160" key="GridCell.Tab.0.left" timestamp="1600852201059">
+      <screen x="0" y="23" width="1440" height="799" />
     </state>
     <state width="955" height="160" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1600848642953" />
     <state width="699" height="253" key="GridCell.Tab.0.left/0.23.1440.798@0.23.1440.798" timestamp="1600478842003" />
-    <state width="955" height="160" key="GridCell.Tab.0.right" timestamp="1600848642954">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="954" height="160" key="GridCell.Tab.0.left/0.23.1440.799@0.23.1440.799" timestamp="1600852201059" />
+    <state width="954" height="160" key="GridCell.Tab.0.right" timestamp="1600852201060">
+      <screen x="0" y="23" width="1440" height="799" />
     </state>
     <state width="955" height="160" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1600848642954" />
     <state width="699" height="253" key="GridCell.Tab.0.right/0.23.1440.798@0.23.1440.798" timestamp="1600478842004" />
-    <state width="955" height="160" key="GridCell.Tab.1.bottom" timestamp="1600848642956">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="954" height="160" key="GridCell.Tab.0.right/0.23.1440.799@0.23.1440.799" timestamp="1600852201060" />
+    <state width="955" height="160" key="GridCell.Tab.1.bottom" timestamp="1600852200870">
+      <screen x="0" y="23" width="1440" height="799" />
     </state>
     <state width="955" height="160" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1600848642956" />
     <state width="699" height="253" key="GridCell.Tab.1.bottom/0.23.1440.798@0.23.1440.798" timestamp="1600478841859" />
-    <state width="955" height="160" key="GridCell.Tab.1.center" timestamp="1600848642955">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="955" height="160" key="GridCell.Tab.1.bottom/0.23.1440.799@0.23.1440.799" timestamp="1600852200870" />
+    <state width="955" height="160" key="GridCell.Tab.1.center" timestamp="1600852200869">
+      <screen x="0" y="23" width="1440" height="799" />
     </state>
     <state width="955" height="160" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1600848642955" />
     <state width="699" height="253" key="GridCell.Tab.1.center/0.23.1440.798@0.23.1440.798" timestamp="1600478841858" />
-    <state width="955" height="160" key="GridCell.Tab.1.left" timestamp="1600848642955">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="955" height="160" key="GridCell.Tab.1.center/0.23.1440.799@0.23.1440.799" timestamp="1600852200869" />
+    <state width="955" height="160" key="GridCell.Tab.1.left" timestamp="1600852200869">
+      <screen x="0" y="23" width="1440" height="799" />
     </state>
     <state width="955" height="160" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1600848642955" />
     <state width="699" height="253" key="GridCell.Tab.1.left/0.23.1440.798@0.23.1440.798" timestamp="1600478841858" />
-    <state width="955" height="160" key="GridCell.Tab.1.right" timestamp="1600848642956">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="955" height="160" key="GridCell.Tab.1.left/0.23.1440.799@0.23.1440.799" timestamp="1600852200869" />
+    <state width="955" height="160" key="GridCell.Tab.1.right" timestamp="1600852200870">
+      <screen x="0" y="23" width="1440" height="799" />
     </state>
     <state width="955" height="160" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1600848642956" />
     <state width="699" height="253" key="GridCell.Tab.1.right/0.23.1440.798@0.23.1440.798" timestamp="1600478841858" />
-    <state width="955" height="160" key="GridCell.Tab.2.bottom" timestamp="1600848642958">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="955" height="160" key="GridCell.Tab.1.right/0.23.1440.799@0.23.1440.799" timestamp="1600852200870" />
+    <state width="955" height="160" key="GridCell.Tab.2.bottom" timestamp="1600852200871">
+      <screen x="0" y="23" width="1440" height="799" />
     </state>
     <state width="955" height="160" key="GridCell.Tab.2.bottom/0.23.1440.797@0.23.1440.797" timestamp="1600848642958" />
     <state width="699" height="253" key="GridCell.Tab.2.bottom/0.23.1440.798@0.23.1440.798" timestamp="1600478841860" />
-    <state width="955" height="160" key="GridCell.Tab.2.center" timestamp="1600848642957">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="955" height="160" key="GridCell.Tab.2.bottom/0.23.1440.799@0.23.1440.799" timestamp="1600852200871" />
+    <state width="955" height="160" key="GridCell.Tab.2.center" timestamp="1600852200870">
+      <screen x="0" y="23" width="1440" height="799" />
     </state>
     <state width="955" height="160" key="GridCell.Tab.2.center/0.23.1440.797@0.23.1440.797" timestamp="1600848642957" />
     <state width="699" height="253" key="GridCell.Tab.2.center/0.23.1440.798@0.23.1440.798" timestamp="1600478841860" />
-    <state width="955" height="160" key="GridCell.Tab.2.left" timestamp="1600848642957">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="955" height="160" key="GridCell.Tab.2.center/0.23.1440.799@0.23.1440.799" timestamp="1600852200870" />
+    <state width="955" height="160" key="GridCell.Tab.2.left" timestamp="1600852200870">
+      <screen x="0" y="23" width="1440" height="799" />
     </state>
     <state width="955" height="160" key="GridCell.Tab.2.left/0.23.1440.797@0.23.1440.797" timestamp="1600848642957" />
     <state width="699" height="253" key="GridCell.Tab.2.left/0.23.1440.798@0.23.1440.798" timestamp="1600478841859" />
-    <state width="955" height="160" key="GridCell.Tab.2.right" timestamp="1600848642957">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="955" height="160" key="GridCell.Tab.2.left/0.23.1440.799@0.23.1440.799" timestamp="1600852200870" />
+    <state width="955" height="160" key="GridCell.Tab.2.right" timestamp="1600852200871">
+      <screen x="0" y="23" width="1440" height="799" />
     </state>
     <state width="955" height="160" key="GridCell.Tab.2.right/0.23.1440.797@0.23.1440.797" timestamp="1600848642957" />
     <state width="699" height="253" key="GridCell.Tab.2.right/0.23.1440.798@0.23.1440.798" timestamp="1600478841860" />
+    <state width="955" height="160" key="GridCell.Tab.2.right/0.23.1440.799@0.23.1440.799" timestamp="1600852200871" />
     <state x="221" y="23" key="SettingsEditor" timestamp="1600478680824">
       <screen x="0" y="23" width="1440" height="798" />
     </state>
@@ -354,18 +367,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/biz/gsign/session/SessionController.java</url>
-          <line>16</line>
+          <line>14</line>
           <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/biz/gsign/config/security/WebServiceAuthenticationProvider.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/biz/gsign/config/security/WebServiceAuthenticationProvider.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/biz/gsign/config/security/GSignUserDetailsService.java</url>

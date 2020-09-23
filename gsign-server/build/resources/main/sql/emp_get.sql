@@ -1,10 +1,10 @@
 SELECT
   emp.id,
-  emp.emp_code,
-  emp.first_name,
-  emp.last_name
+  emp.username,
+  emp.password
 FROM
   employer emp
 WHERE
-  emp_code = /*code*/'100'
+  username = /*code*/'100'
+  and password = /*code*/'100'
 ;

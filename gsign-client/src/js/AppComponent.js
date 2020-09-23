@@ -1,7 +1,7 @@
 import React from 'react'
 import {BrowserRouter as Router, Route} from 'react-router-dom';
 import LoginPage from "./Login/LoginPage";
-import NewUserPage from "/Login/NewUserPage";
+import NewUserPage from "./Login/NewUserPage";
 
 export default function AppComponent() {
   return <div>
