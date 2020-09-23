@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../empcon/empcon-client/.idea/empcon-client.iml" filepath="$PROJECT_DIR$/../../empcon/empcon-client/.idea/empcon-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../eva/eva-client/.idea/eva-client.iml" filepath="$PROJECT_DIR$/../../eva/eva-client/.idea/eva-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../fqidrive/fqidrive-client/.idea/fqidrive-client.iml" filepath="$PROJECT_DIR$/../../fqidrive/fqidrive-client/.idea/fqidrive-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/gsign-client.iml" filepath="$PROJECT_DIR$/.idea/gsign-client.iml" />
+    </modules>
+  </component>
+</project>

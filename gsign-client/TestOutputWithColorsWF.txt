@@ -1,0 +1,12 @@
+
+[0m[0m
+[0m  EmployerListPage[0m
+[0m    display[0m
+    [32m  ✓[0m[90m displays title[0m
+    [32m  ✓[0m[90m displays save button[0m
+    [32m  ✓[0m[90m displays delete button[0m
+    [32m  ✓[0m[90m displays EmployerListTable[0m
+
+
+[92m [0m[32m 4 passing[0m[90m (678ms)[0m
+

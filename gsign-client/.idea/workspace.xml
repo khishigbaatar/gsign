@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="da5eca3c-f0ee-453c-815a-b6476310a13e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1h2auk9Fdn50XdmuQbKZz3f4oOP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/js/Login" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/js/page" />
+      <recent name="$PROJECT_DIR$/src/js" />
+      <recent name="$PROJECT_DIR$/src/js/component" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/js/Login" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/test/utils" />
+      <recent name="$PROJECT_DIR$/src/js/component" />
+      <recent name="$PROJECT_DIR$/src/scss" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Mocha.EmployerListPage">
+    <configuration name="EmployerListPage" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/test/page/EmployerListPageTest.js</test-file>
+      <test-names>
+        <name value="EmployerListPage" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="EmployerListPage.display" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/test/page/EmployerListPageTest.js</test-file>
+      <test-names>
+        <name value="EmployerListPage" />
+        <name value="display" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="EmployerListPage.display.displays save button" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/test/page/EmployerListPageTest.js</test-file>
+      <test-names>
+        <name value="EmployerListPage" />
+        <name value="display" />
+        <name value="displays save button" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="EmployerListPage.display.displays title" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/test/page/EmployerListPageTest.js</test-file>
+      <test-names>
+        <name value="EmployerListPage" />
+        <name value="display" />
+        <name value="displays title" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Mocha.EmployerListPage" />
+        <item itemvalue="Mocha.EmployerListPage.display.displays title" />
+        <item itemvalue="Mocha.EmployerListPage.display.displays save button" />
+        <item itemvalue="Mocha.EmployerListPage.display" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da5eca3c-f0ee-453c-815a-b6476310a13e" name="Default Changelist" comment="" />
+      <created>1599211865489</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599211865489</updated>
+      <workItem from="1599211866884" duration="753000" />
+      <workItem from="1599212731805" duration="2546000" />
+      <workItem from="1599254075919" duration="38639000" />
+      <workItem from="1599389174336" duration="33207000" />
+      <workItem from="1599531608484" duration="40247000" />
+      <workItem from="1599780375458" duration="3281000" />
+      <workItem from="1599873592490" duration="108000" />
+      <workItem from="1600047069119" duration="662000" />
+      <workItem from="1600255171036" duration="1397000" />
+      <workItem from="1600309783614" duration="448000" />
+      <workItem from="1600310907126" duration="62000" />
+      <workItem from="1600310978070" duration="310000" />
+      <workItem from="1600429128493" duration="80000" />
+      <workItem from="1600429966127" duration="5938000" />
+      <workItem from="1600502691897" duration="531000" />
+      <workItem from="1600762398185" duration="4197000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="388" y="88" key="#EmployerListPage" timestamp="1600500945182">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="388" y="88" key="#EmployerListPage/0.23.1440.797@0.23.1440.797" timestamp="1600500945182" />
+    <state x="184" y="83" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599522382178">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="184" y="83" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.797@0.23.1440.797" timestamp="1599522382178" />
+    <state x="458" y="175" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599483584207">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="458" y="175" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.797@0.23.1440.797" timestamp="1599483584207" />
+    <state x="465" y="275" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1599272700277">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="465" y="275" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.797@0.23.1440.797" timestamp="1599272700277" />
+    <state x="262" y="24" key="CommitChangelistDialog2" timestamp="1599743833098">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="262" y="24" key="CommitChangelistDialog2/0.23.1440.797@0.23.1440.797" timestamp="1599743833098" />
+    <state width="1419" height="204" key="GridCell.Tab.0.bottom" timestamp="1600502590258">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1419" height="204" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1600502590258" />
+    <state width="1419" height="204" key="GridCell.Tab.0.center" timestamp="1600502590258">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1419" height="204" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1600502590258" />
+    <state width="1419" height="204" key="GridCell.Tab.0.left" timestamp="1600502590258">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1419" height="204" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1600502590258" />
+    <state width="1419" height="204" key="GridCell.Tab.0.right" timestamp="1600502590258">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1419" height="204" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1600502590258" />
+    <state x="100" y="123" width="1240" height="597" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1599383891147">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="100" y="123" width="1240" height="597" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.797@0.23.1440.797" timestamp="1599383891147" />
+    <state x="378" y="178" width="791" height="486" key="find.popup" timestamp="1600497276103">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="378" y="178" width="791" height="486" key="find.popup/0.23.1440.797@0.23.1440.797" timestamp="1600497276103" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1599387614408">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.23.1440.797@0.23.1440.797" timestamp="1599387614408" />
+    <state x="385" y="144" width="670" height="676" key="search.everywhere.popup" timestamp="1600499710243">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="385" y="144" width="670" height="676" key="search.everywhere.popup/0.23.1440.797@0.23.1440.797" timestamp="1600499710243" />
+  </component>
+</project>
