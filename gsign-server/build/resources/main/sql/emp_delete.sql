@@ -1,0 +1,1 @@
+DELETE FROM employer WHERE emp_code = /*empCode*/'' ;
